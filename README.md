@@ -24,4 +24,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # How To Contribute
 
-To joining this app development, contact us by email: brianrahula@outlook.com
+To joining this app development, contact us by email to: brianrahula@outlook.com
