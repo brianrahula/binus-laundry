@@ -24,9 +24,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![Home](https://raw.githubusercontent.com/brianwo/binus-laundry/master/screenshots/home.jpg)
-![Queue](https://raw.githubusercontent.com/brianwo/binus-laundry/master/screenshots/queue.jpg)
-![Pesonalize](https://raw.githubusercontent.com/brianwo/binus-laundry/master/screenshots/personalize.jpg)
+![Home](https://raw.githubusercontent.com/brianwo/binus-laundry/master/screenshots/home.jpg | width=200)
+![Queue](https://raw.githubusercontent.com/brianwo/binus-laundry/master/screenshots/queue.jpg | width=200)
+![Pesonalize](https://raw.githubusercontent.com/brianwo/binus-laundry/master/screenshots/personalize.jpg | width=200)
 
 # How To Contribute
 
