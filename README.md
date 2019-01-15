@@ -22,6 +22,12 @@ samples, guidance on mobile development, and a full API reference.
 - Customizeable notification
 - Dark mode
 
+## Screenshots
+
+![Home](https://raw.githubusercontent.com/brianwo/binus-laundry/master/screenshots/home.jpg)
+![Queue](https://raw.githubusercontent.com/brianwo/binus-laundry/master/screenshots/queue.jpg)
+![Pesonalize](https://raw.githubusercontent.com/brianwo/binus-laundry/master/screenshots/personalize.jpg)
+
 # How To Contribute
 
 To joining this app development, contact us by email to: brianrahula@outlook.com
