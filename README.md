@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - Auto reload state every seconds
 - Remaining queue notification
-- Costumizeable notification
+- Customizeable notification
 - Dark mode
 
 # How To Contribute
