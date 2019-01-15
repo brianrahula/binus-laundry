@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+## On Development Feature
+
+- Auto reload state every seconds
+- Remaining queue notification
+- Costumizeable notification
+- Dark mode
+
+# How To Contribute
+
+To joining this app development, contact us by email: brianrahula@outlook.com
