@@ -1,6 +1,6 @@
-# laundry
+# Laundry
 
-A Developer Student Club project.
+A project to help BINUS Square boarders to get the info about their laundry queue.
 
 ## Getting Started
 
